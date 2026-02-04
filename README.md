@@ -21,8 +21,8 @@ Courier table columns:
 
 ## Setup (copy-paste in order)
 ```bash
-git clone <REPO_URL> project-gradin
-cd project-gradin
+git clone https://github.com/alfonsusenrico/test-backend-gradin.git
+cd test-backend-gradin
 composer install
 cp .env.example .env
 php artisan key:generate
